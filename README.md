@@ -1,6 +1,6 @@
 # vue-blog
 
-> A Vue.js project
+> A Vue.js project which is allowed to post VueJs related articles.
 
 ## Build Setup
 
