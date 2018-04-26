@@ -19,11 +19,11 @@ export default {
 
 <style scoped>
     #blog-header{
-        background-color: aquamarine;
-        height: 80px;
+        background-color: rgb(97, 245, 163);
+        height: 60px;
         width: 100%;
         position: fixed;
-        padding: 10px;
+        padding: 6px;
     }
     #nav-items  ul{
         float: right;
@@ -37,7 +37,7 @@ export default {
     }
     #nav-items  ul  li  a{
         padding: 0.5em 0.5em;
-        color: #020202;
+        color: #555555;
         text-decoration: none;
         font-size: 20px;
         position: relative;
@@ -45,9 +45,9 @@ export default {
     }
     #nav-items img{
         position: relative;
-        height:50px;
-        width: 50px;
-        padding: 0;
+        height:40px;
+        width: 40px;
+        margin-right: 900px;
     }
     
 </style>
